@@ -1,6 +1,6 @@
 import { CustomButton } from "../buttons/CustomButton";
 import NavBar from "../navbar/NavBar";
-import Profile3 from "../../assets/images/Profile3.jpg";
+import profilephoto from "../../assets/images/profilephoto.jpg";
 import { useRef } from "react";
 import hover3d from "../../utils/hover";
 import { motion } from 'framer-motion';
@@ -70,7 +70,7 @@ const Hero = () => {
                                     transform: hoverHero.transform,
                                 }}>
                                 <img
-                                    src={Profile3}
+                                    src={profilephoto}
                                     alt="Profile"
                                     className='rounded-full border-2 border-secondary'
                                     style={{

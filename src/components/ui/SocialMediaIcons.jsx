@@ -38,7 +38,7 @@ export const SocialMediaIcons = () => {
 
 const socialMediaLinks = [
     {
-        url: 'www.linkedin.com/in/yash-shinde-292200237',
+        url: 'https://www.linkedin.com/in/yash-shinde01/',
         iconComponent: <FaLinkedin className="fill-white hover:fill-secondary" size={25} />
     },
     {
@@ -46,7 +46,7 @@ const socialMediaLinks = [
         iconComponent: <FaGithub className="fill-white hover:fill-secondary" size={25} />
     },
     {
-        url: 'mailto:yashshinde4541@gmail.com',
-        // iconComponent: <FaMail className="fill-white hover:fill-secondary" size={25} />
+        url: 'mailto:ashshinde4541@gmail.com',
+        iconComponent: <FaMail className="fill-white hover:fill-secondary" size={25} />
     },
 ];
