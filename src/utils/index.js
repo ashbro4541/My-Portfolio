@@ -6,7 +6,7 @@ import profileproject from "../assets/images/profileproject.png"; // ✅ Make su
 export const headlines = [
   "Hi, I'm Yash.",
   "I'm a Software Developer",
-  "Over the past few years, I've immersed myself in building and scaling backend software while actively tackling frontend challenges."
+  "Over the past few months, I’ve built multiple projects using the MERN stack while actively addressing frontend challenges to deliver complete solutions."
 ];
 
 export const fixedNavItems = [
@@ -91,5 +91,5 @@ export const metadata = {
   description:
     "This portfolio is a collection of my work that showcases my skills and creativity.",
   imageURL: "", // Optional: add open graph image
-  pageUrl: "https://www.johnclaytonblanc.com"
+  pageUrl: ""
 };
