@@ -1,6 +1,8 @@
 import gshock from "../assets/images/gshock.png";
 import speed400 from "../assets/images/speed400.png";
 import React9 from "../assets/images/React9.png";
+import Marketing from "../assets/images/Marketing.png";
+
 import profileproject from "../assets/images/profileproject.png"; // ✅ Make sure this image exists
 
 export const headlines = [
@@ -34,6 +36,15 @@ export const projects = [
     description:
       "A stylish and interactive G-Shock watch website built with HTML, CSS, and JavaScript, delivering a bold and responsive user experience. ⌚🚀",
     techStack: ["HTML", "CSS", "Bootstrap", "JavaScript", "JSON"]
+  },
+   {
+    title: " Marketing Hospital Marketing & Management Website (Freelance Client Project)",
+    image: Marketing,
+    linkGithub: null,
+    linkOnline: "https://www.suyashmarketing.com/",
+    description:
+      "Developed a complete hospital website to help clinics manage appointments, showcase services, and generate leads.offer listings, and lead forms with WhatsApp redirection Integrated admin panel for real-time updates and promotions Connected Facebook Pixel and Google Tag Manager for tracking and automation. ⌚🚀",
+    techStack: ['Wix (Editor X)', 'Custom JS Plugins', 'Facebook Pixel', 'WhatsApp API', 'GTM', 'CRM Integration']
   },
   {
     title: "Almabridge Mentorship Platform",
