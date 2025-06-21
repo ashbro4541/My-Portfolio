@@ -47,6 +47,6 @@ const socialMediaLinks = [
     },
     {
         url: 'mailto:ashshinde4541@gmail.com',
-        iconComponent: <FaMail className="fill-white hover:fill-secondary" size={25} />
+        // iconComponent: <FaMail className="fill-white hover:fill-secondary" size={25} />
     },
 ];
