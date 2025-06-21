@@ -25,7 +25,7 @@ const ProjectCard = ({ project }) => {
             }}
         >
             <CardContainer>
-                <CardBody className="bg-third relative group/card border-black/[0.1] w-auto lg:w-[25rem] lg:h-[25rem] h-auto rounded-xl p-6 border">
+                <CardBody className="bg-third relative group/card border-black/[0.1] w-auto lg:w-[25rem] lg:h-[29rem] h-auto rounded-xl p-6 border">
                     <CardItem
                         translateZ="50"
                         className="text-xl font-semibold text-primary-text"

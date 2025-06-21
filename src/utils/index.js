@@ -37,15 +37,6 @@ export const projects = [
       "A stylish and interactive G-Shock watch website built with HTML, CSS, and JavaScript, delivering a bold and responsive user experience. ⌚🚀",
     techStack: ["HTML", "CSS", "Bootstrap", "JavaScript", "JSON"]
   },
-   {
-    title: " Marketing Hospital Marketing & Management Website (Freelance Client Project)",
-    image: Marketing,
-    linkGithub: null,
-    linkOnline: "https://www.suyashmarketing.com/",
-    description:
-      "Developed a complete hospital website to help clinics manage appointments, showcase services, and generate leads.offer listings, and lead forms with WhatsApp redirection Integrated admin panel for real-time updates and promotions Connected Facebook Pixel and Google Tag Manager for tracking and automation. ⌚🚀",
-    techStack: ['Wix (Editor X)', 'Custom JS Plugins', 'Facebook Pixel', 'WhatsApp API', 'GTM', 'CRM Integration']
-  },
   {
     title: "Almabridge Mentorship Platform",
     image: profileproject,
@@ -72,6 +63,16 @@ export const projects = [
     description:
       "A practice restaurant website built using React.js and modern styling tools like Tailwind CSS and Bootstrap. It mimics a real restaurant landing page with full responsiveness and clean design. 🍽️📱",
     techStack: ["HTML", "JavaScript", "Tailwind CSS", "Bootstrap", "React.js"]
+  }
+  ,
+   {
+    title: " Marketing Hospital Marketing & Management Website (Freelance Client Project)",
+    image: Marketing,
+    linkGithub: null,
+    linkOnline: "https://www.suyashmarketing.com/",
+    description:
+      "Developed a hospital marketing website with features like appointment booking, service listings, WhatsApp lead generation, and real-time admin updates. Integrated Facebook Pixel, Google Tag Manager, and CRM tools for tracking and automation.⌚🚀",
+    techStack: ['Wix (Editor X)', 'Custom JS Plugins', 'Facebook Pixel', 'WhatsApp API', 'GTM', 'CRM Integration']
   }
 ];
 
